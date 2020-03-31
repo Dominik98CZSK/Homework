@@ -1,5 +1,5 @@
 # Přehled:
 
-![SASSCykli.PNG](SASSCykli.PNG)
-![SASSExtend.PNG](SASSExtend.PNG)
-![SASSTeroie.PNG](SASSTeroie.PNG)
+![SASSCykli.JPG](SASSCykli.JPG)
+![SASSExtend.JPG](SASSExtend.JPG)
+![SASSTeroie.JPG](SASSTeroie.JPG)
