@@ -1,2 +1,2 @@
 #### Náhled:
-![UMLClassDiagram.PNG](UMLClassDiagram.PNG)
+![UMLClassDiagram.png](UMLClassDiagram.png)
