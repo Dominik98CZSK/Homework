@@ -1,8 +1,8 @@
 # Přehled:
 
-![Výpisky GIT (2).jpg](Výpisky GIT (2).jpg)
-![Výpisky GIT (3).jpg](Výpisky GIT (3).jpg)
-![Výpisky GIT.jpg](Výpisky GIT.jpg)
+![VýpiskyGIT2.jpg](VýpiskyGIT2.jpg)
+![VýpiskyGIT3.jpg](VýpiskyGIT3.jpg)
+![VýpiskyGIT.jpg](VýpiskyGIT.jpg)
 
 
 
