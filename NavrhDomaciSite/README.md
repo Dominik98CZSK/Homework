@@ -24,6 +24,7 @@
 ## Cenová kalkulace:
 ### Celkem to dělá:
 #### 230.300kč.
+##
 
 
 
