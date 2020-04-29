@@ -18,6 +18,9 @@
 #### Počítač do pracovny, tím pádem i pro Gaming bych si představoval za 60.000kč. (Stačí když budou fungovat tanky na full detaily. XDD).
 #### Tiskárna na dokumenty nemusí být nic drahého stačí např. HP tiskárna za 4.000kč.
 #### Domácí kino se dá v dnešní době sehnat za krásnou cenu např. Sony Za 10.000kč
-#### 
+#### TV anténa za 1.000kč
+### Cena za Média:
+#### Bude potřeba cca LAN "kabeláže" bude potřeba cca 800m cena cca za 3.000kč , KOAX kabely cca. 200m 1.500kč, audio kabely 800kč.
+
 
 
