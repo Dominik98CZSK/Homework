@@ -1,5 +1,5 @@
 #### Přehled výpisek:
-![diag1](diag1)
-![diag2](diag2)
-![diag3](diag3)
-![diag4](diag4)
+![diag1.jpg](diag1.jpg)
+![diag2.jpg](diag2.jpg)
+![diag3.jpg](diag3.jpg)
+![diag4.jpg](diag4.jpg)
